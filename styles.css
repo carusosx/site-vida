@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #c984af;
+}
+
+.container {
+  text-align: center;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
